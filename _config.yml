@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 remote_theme: pages-themes/cayman@v0.2.0
-#site-theme : "default"
+site-theme : "default"
 title                    : "Antonella Mensi, PhD"
 title_separator          : "-"
 name                     : &name "Antonella Mensi"
